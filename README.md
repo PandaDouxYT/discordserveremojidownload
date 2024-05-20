@@ -6,3 +6,5 @@ Purpose: Download all emojis from a discord server.
 * Launching the program with Python **python3 emoji_downloader.py**
 
 Enjoy!
+
+:)
