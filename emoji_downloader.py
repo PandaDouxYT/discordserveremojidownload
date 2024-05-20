@@ -1,6 +1,7 @@
 #!/bin/python3
 import requests, os, shutil 
 
+
 if os.path.isfile("./token.txt"):
     token = open("token.txt").read().strip()
 else:
