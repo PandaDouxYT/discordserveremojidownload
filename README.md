@@ -1,4 +1,4 @@
-# Discord Server Emoji Download
+# Discord Server Emoji Download !
 Purpose: Download all emojis from a discord server.
 
 # 🚀 How to use it?
